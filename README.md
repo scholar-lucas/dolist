@@ -1,0 +1,2 @@
+# dolist
+learn about go 
